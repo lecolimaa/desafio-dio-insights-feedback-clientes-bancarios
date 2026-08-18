@@ -2,10 +2,8 @@
 
 🎯 Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
 
+Utilizando os auxílios do Copilot da Microsoft, foi possível obter os resultados:
 
-
-
-markdown
 
 # 📊 Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
 
@@ -78,5 +76,5 @@ Os feedbacks analisados mostram pontos críticos em **Pix** e **cartão de créd
 3. 💬 **Agilidade no atendimento digital** – diminuir tempo de espera no chat sem perder cordialidade.  
 
 ---
-```
+
 
