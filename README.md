@@ -3,7 +3,7 @@
 🎯 Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
 
 
-Ótimo, Moto! Aqui está a **versão estruturada e visual em Markdown avançado** para o seu `README.md`. Ela usa ícones e cores (via emojis) para dar mais impacto e tornar a leitura mais atrativa:  
+
 
 ```markdown
 # 📊 Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
